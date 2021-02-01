@@ -1,5 +1,5 @@
 # Резюме
-Кричевцов Алексей Александрович 
+Алексей Кричевцов
 Мужчина 28 лет
 
 
@@ -13,17 +13,15 @@ neuralbotsdev@gmail.com
 
 ### 
 Администрирование систем:
-  * Linux(sert)
-    + terminal
+  * Linux(sert) terminal friendly
     + Debian, Ubuntu
     + Red Hat, SentOS
     + Fedora
+    
   
   * Windows:
-    + XP (onelove)
-    + 7 (twolove)
-    + Millenium, Vista, 8, 10
-    + PowerShell(20%)
+    + XP (onelove), 7, Millenium, Vista, 8, 10
+    PowerShell(20%)
   
   * Android
     + Bootloader(разблокировка)
@@ -32,28 +30,15 @@ neuralbotsdev@gmail.com
     + ROOT
     + Кастомизация
 
-Менеджеры пакетов:  
- * apt
- * pip
- * Anaconda
- * pkg(termux)
-
 Протоколы:
-  * SSH
-  * RDP
-  * TCP
-  * FTP
-  * UDF
-  * HTTP
-
+  * SSH, RDP, TCP, FTP, UDF, HTTP
+  
 Системы контроля версий:
   * GitHub(sert)
   * Gitlab
 
 Cloud Platform
-  * GCP
-  * AVS
-  * Azure
+  * GCP, AVS, Azure
 
 БД:
   * MySQL(20%)

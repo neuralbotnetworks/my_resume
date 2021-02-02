@@ -15,7 +15,7 @@ GitHub: https://github.com/neuralbotnetworks
 
 Телефон и WhatsApp: ` +7(952)095-71-01 `
 
->>>>>>>>>>>![imghcenter imgsmall](asset/image/1.png)
+>>>>>>>>>![imghcenter imgsmall](asset/image/1.png)
 
 </div>
 
@@ -23,9 +23,9 @@ GitHub: https://github.com/neuralbotnetworks
 
 ## В поиске работы в направлении:
 ```
+ * Data Analyst
  * Data Scientist 
  * NLP-Engineer 
- * Data Analyst
   ```
 
 ## Мои предыдущий опыт:

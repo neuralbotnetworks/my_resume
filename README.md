@@ -1,60 +1,58 @@
-# Резюме
-Алексей Кричевцов
-Мужчина 28 лет
+### Резюме
+# Алексей Кричевцов
+28 лет
+### г. Москва
 
-## Контакты
-г. Москва
 
-Телефон и WhatsApp:
-+7(952)095-71-01  
+<div markdown='1' align='center'>
+Контакты
 
-Telegram:
-@neuralbots
+Telegram: [@neuralbots](https://t.me/neuralbots)
 
-Email:
-neuralbotsdev@gmail.com
+Email: neuralbotsdev@gmail.com
 
-GitHub:
-https://github.com/neuralbotnetworks
+GitHub: https://github.com/neuralbotnetworks
 
-## В поиске работы по Профессии:
+Телефон и WhatsApp: ` +7(952)095-71-01 `
+
+>>>>>>>>>>>![imghcenter imgsmall](asset/image/1.png)
+
+</div>
+
+
+
+## В поиске работы в направлении:
+```
  * Data Scientist 
  * Machine Learning Engineer
  * NLP-Engineer 
  * Data Analyst
- * Project Manager(Jun)
- * Product Manager(Jun)
+ * Project Manager(Junior)
+ * Product Manager(Junior)
  * DevOps
+  ```
 
-## Завершенные профессии :
-`Больше не актуальны`
+## Мои предыдущий опыт:
 
-### В Должности Руководителя
+> ### В Должности Руководителя
  * Директор (Управляющий сетью баров) 
  * Шеф-повар (Заведующий производством)
  * Су-шеф (Заместитель Шеф-повара)
 
-### IT:
+> ### IT:
  * Системный администратор
  * Cloud engineer (sert)
  * Сервис инженер (ремонт пк)
 
-### Творческие
+> ### Творческие
  * DJ
  * Sound Designer
- * Sound Producer
 
-### Рестораны и гостиничный бизнес:
+> ### Рестораны и гостиничный бизнес:
  * Повар(diploma)
- * Повар-универсал
- * Повар-горячего цеха
- * Повар-холодного цеха
  * Сушист
  * Пицайоло
 
-### Продажи
- * Менеджер по рекламе
+> ### Продажи
  * Риэлтор (course)
- * Официант
   
-

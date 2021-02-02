@@ -24,35 +24,46 @@ GitHub: https://github.com/neuralbotnetworks
 ## В поиске работы в направлении:
 ```
  * Data Scientist 
- * Machine Learning Engineer
  * NLP-Engineer 
  * Data Analyst
- * Project Manager(Junior)
- * Product Manager(Junior)
- * DevOps
   ```
 
 ## Мои предыдущий опыт:
 
-> ### В Должности Руководителя
+<details markdown='1'><summary> В Должности Руководителя</summary>
+
  * Директор (Управляющий сетью баров) 
  * Шеф-повар (Заведующий производством)
  * Су-шеф (Заместитель Шеф-повара)
 
-> ### IT:
+</details>
+
+<details markdown='1'><summary>IT</summary>
+
  * Системный администратор
  * Cloud engineer (sert)
  * Сервис инженер (ремонт пк)
 
-> ### Творческие
+</details>
+
+<details markdown='1'><summary> Творческие</summary>
+ 
  * DJ
  * Sound Designer
 
-> ### Рестораны и гостиничный бизнес:
- * Повар(diploma)
+</details>
+
+<details markdown='1'><summary> Рестораны и гостиничный бизнес</summary>
+ 
+* Повар(diploma)
  * Сушист
  * Пицайоло
 
-> ### Продажи
+</details>
+
+<details markdown='1'><summary>Продажи</summary>
+
  * Риэлтор (course)
+
+</details>
   

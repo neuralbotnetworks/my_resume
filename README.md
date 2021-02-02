@@ -67,3 +67,8 @@ GitHub: https://github.com/neuralbotnetworks
 
 </details>
   
+[Достижения.](Достижения/readme.md)
+
+[Обучение.](Обучение/readme.md)
+
+[Навыки.](Навыки/readme.md)

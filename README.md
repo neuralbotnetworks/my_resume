@@ -13,9 +13,7 @@ Email: neuralbotsdev@gmail.com
 
 GitHub: https://github.com/neuralbotnetworks
 
-Телефон и WhatsApp: ` +7(952)095-71-01 `
 
->>>>>>>>>![imghcenter imgsmall](asset/image/1.png)
 
 </div>
 

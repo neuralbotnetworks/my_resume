@@ -9,10 +9,11 @@
 ## Завершил курсы:
 |Курс||Cert|
 :---|:--|:--:|
-|Git.| Базовый курс |![pic](https://geekbrains.ru/certificates/1119932.jpg)
+|Python| Основы языка |![pic](https://gb.ru/certificates/1130215)
+|Git| Базовый курс |![pic](https://geekbrains.ru/certificates/1119932.jpg)
 |Высшая Математика|Введение|![pic](https://geekbrains.ru/certificates/1061777.jpg)
-|Linux |Рабочая станция|![pic](https://geekbrains.ru/certificates/1061630.jpg)
-|The Complete Flutter Development |Bootcamp with Dart|![pic](https://udemy-certificate.s3.amazonaws.com/image/UC-6a7519bb-8869-4117-8757-ef144093d9f0.jpg)
+|Linux | Рабочая станция|![pic](https://geekbrains.ru/certificates/1061630.jpg)
+|The Complete Flutter Development | Bootcamp with Dart|![pic](https://udemy-certificate.s3.amazonaws.com/image/UC-6a7519bb-8869-4117-8757-ef144093d9f0.jpg)
 
 
 

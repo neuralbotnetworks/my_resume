@@ -9,7 +9,7 @@
 ## Завершил курсы:
 |Курс||Cert|
 :---|:--|:--:|
-|Python| Основы языка |![pic](https://gb.ru/certificates/1130215)
+|Python| Основы языка |![pic](https://geekbrains.ru/certificates/1130215.jpg)
 |Git| Базовый курс |![pic](https://geekbrains.ru/certificates/1119932.jpg)
 |Высшая Математика|Введение|![pic](https://geekbrains.ru/certificates/1061777.jpg)
 |Linux | Рабочая станция|![pic](https://geekbrains.ru/certificates/1061630.jpg)

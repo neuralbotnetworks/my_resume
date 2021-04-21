@@ -1,6 +1,6 @@
 ### Резюме
 # Алексей Кричевцов
-28 лет
+29 лет
 ### г. Сочи
 
 
@@ -11,7 +11,6 @@ Telegram: [@neuralbots](https://t.me/neuralbots)
 
 Email: neuralbotsdev@gmail.com
 
-GitHub: https://github.com/neuralbotnetworks
 
 
 

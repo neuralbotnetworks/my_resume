@@ -1,7 +1,6 @@
 ### Резюме
 # Алексей Кричевцов
-29 лет
-### г. Сочи
+
 
 
 <div markdown='1' align='center'>
@@ -10,7 +9,6 @@
 Telegram: [@neuralbots](https://t.me/neuralbots)
 
 Email: neuralbotsdev@gmail.com
-
 
 
 
@@ -27,6 +25,18 @@ Email: neuralbotsdev@gmail.com
 
 ## Мои предыдущий опыт:
 
+
+
+<details markdown='1'><summary>IT</summary>
+ * Web разработчик freelance
+ * Python разработчик freelance
+ * Dart(flutter) разработчик freelance
+ * Системный администратор
+ * Cloud engineer freelance
+ * Сервис инженер по ремонту ПК
+
+</details>
+
 <details markdown='1'><summary> В Должности Руководителя</summary>
 
  * Директор (Управляющий сетью баров) 
@@ -35,28 +45,14 @@ Email: neuralbotsdev@gmail.com
 
 </details>
 
-<details markdown='1'><summary>IT</summary>
-
- * Системный администратор
- * Cloud engineer (sert)
- * Сервис инженер (ремонт пк)
-
-</details>
-
 <details markdown='1'><summary> Творческие</summary>
  
  * DJ
  * Sound Designer
+ * Звукорежиссёр
 
 </details>
 
-<details markdown='1'><summary> Рестораны и гостиничный бизнес</summary>
- 
-* Повар(diploma)
- * Сушист
- * Пицайоло
-
-</details>
 
 <details markdown='1'><summary>Продажи</summary>
 

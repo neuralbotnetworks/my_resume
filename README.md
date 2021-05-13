@@ -22,12 +22,18 @@ Email: neuralbotsdev@gmail.com
  * Data Scientist 
  * NLP-Engineer 
   ```
+  
+## Hard Skills
+
+[Навыки.](Навыки/readme.md)
 
 ## Мои предыдущий опыт:
 
 
 
+
 <details markdown='1'><summary>IT</summary>
+
  * Web разработчик freelance
  * Python разработчик freelance
  * Dart(flutter) разработчик freelance
@@ -60,8 +66,7 @@ Email: neuralbotsdev@gmail.com
 
 </details>
   
-[Достижения.](Достижения/readme.md)
+[Обучение.](Достижения/readme.md)
 
-[Обучение.](Обучение/readme.md)
+[Развитие.](Обучение/readme.md)
 
-[Навыки.](Навыки/readme.md)
